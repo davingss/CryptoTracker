@@ -1,5 +1,5 @@
 # CryptoTracker
-An app that shows daily update on electric coins 
+An mobile app that gives daily update 
 
 # Screenshot
 ![Screenshot](https://github.com/DaveAAA/CryptoTracker/blob/master/images/Screenshots.png)
