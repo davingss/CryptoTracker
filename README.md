@@ -2,7 +2,7 @@
 An app that shows daily update on electric coins 
 
 # Screenshot
-![Screenshot](https://github.com/DaveAAA/CryptoTracker/blob/master/images/Screenshot.png)
+![Screenshot](https://github.com/DaveAAA/CryptoTracker/blob/master/images/Screenshots.png)
 
 # Usage
  To use **CryptoCurrency** simply clone or download.
