@@ -16,3 +16,5 @@ I would love to welcome contributions and support from other developers. Please 
 4. **Push** your work back up to your fork.
 5. Submit a **Pull request** so that i can review your changes
 NOTE: Be sure to merge the latest from "upstream" before making a pull request!
+
+Thank you!!!!
