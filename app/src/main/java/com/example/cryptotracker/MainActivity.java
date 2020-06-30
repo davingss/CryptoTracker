@@ -33,7 +33,6 @@ public class MainActivity extends AppCompatActivity {
     Toolbar toolbar;
     OkHttpClient client;
     Request request;
-
     SwipeRefreshLayout swipeRefreshLayout;
 
     @Override
