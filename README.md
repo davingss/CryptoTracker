@@ -1,5 +1,5 @@
 # CryptoTracker
-An mobile app that gives daily update 
+A simple mobile app that gives daily update on daily cryptocurrency
 
 # Screenshot
 ![Screenshot](https://github.com/DaveAAA/CryptoTracker/blob/master/images/Screenshots.png)
