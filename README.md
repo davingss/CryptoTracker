@@ -8,7 +8,7 @@ A simple mobile app that gives daily update on daily cryptocurrency
  To use **CryptoCurrency** simply clone or download.
  
  # Issues
- If you have any issues..kind file one
+ If you have any issues kindly file one
  
  # Contributing
 I would love to welcome contributions and support from other developers. Please refer to each project's style guidelines and guidelines for submitting patches and additions. In general, i follow the "fork-and-pull" Git workflow.
