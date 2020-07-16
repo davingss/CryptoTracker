@@ -4,6 +4,9 @@ A simple mobile app that gives daily update on daily cryptocurrency
 # Screenshot
 ![Screenshot](https://github.com/DaveAAA/CryptoTracker/blob/master/images/Screenshots.png)
 
+# Feature
+Android 365 : https://androidexample365.com/an-app-that-shows-daily-update-on-electric-coins/
+
 # Usage
  To use **CryptoCurrency** simply clone or download.
  
