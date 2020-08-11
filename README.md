@@ -10,6 +10,9 @@ Android 365 : https://androidexample365.com/an-app-that-shows-daily-update-on-el
 # Usage
  To use **CryptoCurrency** simply clone or download.
  
+ # Updates
+ More updates on CryptoTracker is coming soon (e.g Updating the UI,e.t.c)
+ 
  # Issues
  If you have any issues kindly file one
  
